@@ -35,7 +35,7 @@ Dockerの記述メモ
 <img width="593" alt="スクリーンショット 2022-06-25 17 00 20" src="https://user-images.githubusercontent.com/75665390/175764370-7927fb62-6511-4698-ba62-0b623283ed65.png">
 <p align="center">
 <img width="593" alt="スクリーンショット 2022-06-25 17 21 58" src="https://user-images.githubusercontent.com/75665390/175765104-f9a31d53-8176-4a87-8bab-cc2a146897b0.png">
-※1 PORTの設定
+- ※1 PORTの設定
 <p align="center">
 <img width="593" alt="スクリーンショット 2022-06-25 17 40 51" src="https://user-images.githubusercontent.com/75665390/175765654-1c20c1b1-943d-40c4-b975-5ed327c9c1ed.png">
 
