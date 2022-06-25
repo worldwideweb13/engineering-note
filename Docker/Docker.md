@@ -31,5 +31,5 @@ Dockerの記述メモ
 <p align="center">
 <img width="593" alt="スクリーンショット 2022-06-25 17 00 20" src="https://user-images.githubusercontent.com/75665390/175764370-7927fb62-6511-4698-ba62-0b623283ed65.png">
 <p align="center">
-<img width="593" alt="スクリーンショット 2022-06-25 17 14 01" src="https://user-images.githubusercontent.com/75665390/175764830-591102f0-12e8-4bc2-b73f-f3ed4eea7e5d.png">
-  
+<img width="593" alt="スクリーンショット 2022-06-25 17 21 58" src="https://user-images.githubusercontent.com/75665390/175765104-f9a31d53-8176-4a87-8bab-cc2a146897b0.png">
+
