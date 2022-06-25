@@ -27,5 +27,9 @@ Dockerの記述メモ
 
 ### DockerCompose
 - ymlファイルの設計図で、複数のコンテナをまとめて管理できるもの。つまりサーバー毎に分離したコンテナを,連携させて動かす上で必須の技術であり,dockercomposeを使って開発環境を稼働させる運用を敷いている企業がほとんど。
+- ymlファイルには、DockerFileのパス（参照箇所）、imageの参照先などを親子関係で記述してあり,各コンテナのfileの読み出し→イメージ作成→コンテナ作成までを行うロードマップを記述している(多分)
 <p align="center">
 <img width="593" alt="スクリーンショット 2022-06-25 17 00 20" src="https://user-images.githubusercontent.com/75665390/175764370-7927fb62-6511-4698-ba62-0b623283ed65.png">
+<p align="center">
+<img width="593" alt="スクリーンショット 2022-06-25 17 14 01" src="https://user-images.githubusercontent.com/75665390/175764830-591102f0-12e8-4bc2-b73f-f3ed4eea7e5d.png">
+  
