@@ -24,3 +24,7 @@ Dockerの記述メモ
 <img width="593" alt="スクリーンショット 2022-06-25 15 29 26" src="https://user-images.githubusercontent.com/75665390/175761468-7b8de0dd-78e1-40da-99c0-a46e0186fe76.png">
  
 - Dockerイメージに各種ソフトのインストールコマンドを記述する際、必ずソフトのインストールバージョンを記述すること`イメージ名:タグ名`
+
+ ### 
+<p align="center">
+<img width="593" alt="スクリーンショット 2022-06-25 17 00 20" src="https://user-images.githubusercontent.com/75665390/175764370-7927fb62-6511-4698-ba62-0b623283ed65.png">
