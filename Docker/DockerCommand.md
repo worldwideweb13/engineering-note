@@ -33,3 +33,4 @@ dfeef1d4c85c   hello-world   "/hello"   5 seconds ago   Exited (0) 5 seconds ago
   CentOS Linux release 8.4.2105
   ```
   - `docker rm コンテナ指定`,`docker rmi イメージ指定` Dockerコンテナの削除、Dockerイメージの削除コマンド. `rmi`オプションでは、起動中のコンテナは削除できない（Dockerイメージは依存関係がある. 実在するコンテナにimageがないという状態にはならない）
+  - Docker build
