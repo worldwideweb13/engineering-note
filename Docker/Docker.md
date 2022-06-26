@@ -37,6 +37,7 @@ Dockerの記述メモ
 ### Dockerの設計
 - Dockerコンテナは極力、シンプルな構成で作成されるべきで１コンテナ、１プロセスにすべきである。
 - そのため、サーバー構成も、(webサーバー、アプリケーションサーバー、WEBアプリケーションサーバーetc)のように実際のサーバー構成と同じようにコンテナも切り分けて作成される。　サーバー構成に関して[こちら](https://www.youtube.com/watch?v=jnFvDiR-chQ&t=6s)の動画参照
+<p align="center">
 <img width="593" alt="スクリーンショット 2022-06-25 17 58 15" src="https://user-images.githubusercontent.com/75665390/175766219-cbe0c56c-649f-40ff-a27a-4c39a43189be.png">
   
 ### DockerCompose
