@@ -35,3 +35,8 @@ dfeef1d4c85c   hello-world   "/hello"   5 seconds ago   Exited (0) 5 seconds ago
   - `docker rm コンテナ指定`,`docker rmi イメージ指定` Dockerコンテナの削除、Dockerイメージの削除コマンド. `rmi`オプションでは、起動中のコンテナは削除できない（Dockerイメージは依存関係がある. 実在するコンテナにimageがないという状態にはならない）
   - `Docker build Dockerfileパス` でDockerfileからimageを作成
   - `docker vp passName copiedPassName` passNameをcopiedPassNameにコピーする.`docker cp ホストファイルパス コンテナファイルパス` `docker cp コンテナファイルパス ホストファイルパス`
+
+- docker compose 関連
+　　- `docker-compose run コマンド...`...コマンドの内容のコンテナを作成する
+ - `docker-compose up -d`...docker composeで作成したコンテナを立ち上げる
+ - 
