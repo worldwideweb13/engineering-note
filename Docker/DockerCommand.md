@@ -37,6 +37,5 @@ dfeef1d4c85c   hello-world   "/hello"   5 seconds ago   Exited (0) 5 seconds ago
   - `docker vp passName copiedPassName` passNameをcopiedPassNameにコピーする.`docker cp ホストファイルパス コンテナファイルパス` `docker cp コンテナファイルパス ホストファイルパス`
 
 - docker compose 関連
-　　- `docker-compose run コマンド...`...コマンドの内容のコンテナを作成する
+ - `docker-compose run コマンド...`...コマンドの内容のコンテナを作成する
  - `docker-compose up -d`...docker composeで作成したコンテナを立ち上げる
- - 
